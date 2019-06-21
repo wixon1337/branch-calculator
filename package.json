@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wixon1337/branch-calculator/issues"
   },
-  "homepage": "https://github.com/wixon1337/branch-calculator#readme"
+  "homepage": "https://github.com/wixon1337/branch-calculator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
